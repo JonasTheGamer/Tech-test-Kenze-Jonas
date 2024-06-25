@@ -4,7 +4,7 @@
 
 ## How to run
 To run the application, you need to have .NET 7 installed. 
-Next, run `dotnet run` from the project root.
+Next, run `dotnet run --project UI-CA` from the project root.
 
 The application should now start.
 
