@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{A8B9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI-CA", "UI-CA\UI-CA.csproj", "{DB6FCBF1-EE28-4F89-91DF-47B72F3FD9B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{B6C5B55D-5C72-4788-BD72-83B4D0D6EB77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{DB6FCBF1-EE28-4F89-91DF-47B72F3FD9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB6FCBF1-EE28-4F89-91DF-47B72F3FD9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB6FCBF1-EE28-4F89-91DF-47B72F3FD9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C5B55D-5C72-4788-BD72-83B4D0D6EB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C5B55D-5C72-4788-BD72-83B4D0D6EB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C5B55D-5C72-4788-BD72-83B4D0D6EB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C5B55D-5C72-4788-BD72-83B4D0D6EB77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
